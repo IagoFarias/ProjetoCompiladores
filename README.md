@@ -1,3 +1,3 @@
 # ProjetoCompiladores
 
-Arquivo dnlGrammar.sable contém a gramática que especifica a linguagem.
+Compilador criado na linguagem Java utilizando as ferramentas JFlex e Java CUP.
